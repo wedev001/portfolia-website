@@ -29,7 +29,7 @@ const Home = () => {
 
         emailjs.sendForm(
             "service_wss9jkz",  
-            "template_26n0teg",
+            "template_ltm6fu8",
             form.current,
             "s87lKL8epWB0km8DZ"  
         )
