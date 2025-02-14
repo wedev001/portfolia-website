@@ -1,0 +1,7 @@
+#root {
+  width: 100%; /* Ensures it takes full width */ /* Keep padding for spacing */
+  text-align: center;
+  overflow-x: hidden; /* Prevents horizontal scroll */
+  scroll-behavior: smooth; /* Smooth scrolling */
+}
+
