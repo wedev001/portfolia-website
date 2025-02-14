@@ -7,7 +7,7 @@ import { Braces, Atom, Server, SquareCode, Database, Code, Wind, GitBranch, List
 import { FaGithub, FaLinkedin, FaInstagram, FaFacebook } from "react-icons/fa";
 import { Cpu, Terminal, Layers } from "lucide-react";
 import Typed from "typed.js";
-import emailjs from "@emailjs";
+import emailjs from "@emailjs/browser";
 
 
 const Home = () => {
