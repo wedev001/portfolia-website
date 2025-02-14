@@ -174,7 +174,7 @@ const Home = () => {
         <div className="project-card">
             <h3>Portfolio Website</h3>
             <p>A personal portfolio website showcasing my skills, projects, and resume.</p>
-            <a href="#" className="project-link">View Project</a>
+            <a href="https://portfolia-website.onrender.com" className="project-link">View Project</a>
         </div>
         <div className="project-card">
             <h3>E-commerce App</h3>
