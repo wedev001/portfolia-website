@@ -1,6 +1,5 @@
 # Personal Portfolio Website
 
-![Portfolio Preview](https://portfolia-website-o8hu.vercel.app/)  
 *A sleek and modern personal portfolio website to showcase projects, skills, and experience.*
 
 ## 🚀 Live Demo
