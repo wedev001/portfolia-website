@@ -182,9 +182,10 @@ const Home = () => {
             <a href="#" className="project-link">View Project</a>
         </div>
         <div className="project-card">
-            <h3>AI Resume Bulider</h3>
-            <p>A full-stack AI Resume Builder built with React, Node.js, MongoDB, Machine Learning, and AI.</p>
-            <a href="#" className="project-link">View Project</a>
+               <img src="Logo.png" alt="Notionize" style={{ height: '80px', width: '80px' }} />
+            <h3>Notionize(To-Do Web Application)</h3>
+            <p>Notionize is a React-based to-do web app with full CRUD functionality and LocalStorage support. It showcases clean UI, component-based design, and persistent task management without using any backend.</p>
+            <a href="https://notionizetask.vercel.app/" className="project-link">View Project</a>
         </div>
     </div>
 </section>
