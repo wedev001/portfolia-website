@@ -184,7 +184,7 @@ const Home = () => {
         <div className="project-card">
                <img src="Logo(4).png" alt="Notionize" style={{ height: '80px', width: '80px' }} />
             <h3>Notionize(To-Do Web Application)</h3>
-            <p>Notionize is a React-based to-do web app with full CRUD functionality and LocalStorage support. It showcases clean UI, component-based design, and persistent task management without using any backend.</p>
+            <p>Notionize is a React to-do app with CRUD operations and LocalStorage, featuring a clean UI and component-based design without any backend.</p>
             <a href="https://notionizetask.vercel.app/" className="project-link">View Project</a>
         </div>
     </div>
