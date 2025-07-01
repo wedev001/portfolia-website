@@ -118,7 +118,7 @@ const Home = () => {
                     </div>
                     <div className="text-content">
                         <h1><span ref={typedTextRef}></span></h1>
-                        <p>I am a passionate Software Developer with expertise in modern web technologies...</p>
+                        <p>I am a passionate Front-End Developer with expertise in modern web technologies...</p>
                         
                              <button className="DownLoad" onClick={downloadResume}>Download Resume</button>
 
@@ -136,9 +136,8 @@ const Home = () => {
             <h2 className="section-title">About Me</h2>
             <h3>Hi, I'm <span className="highlight">Suraj Kumar</span> 👋</h3>
             <p>
-                A passionate Software Developer with expertise in frontend & backend development,  
-                Data Structures & Algorithms (DSA), and competitive programming.  
-                I specialize in building scalable web applications and solving real-world problems.
+                A passionate Frontend Developer with a strong grasp of modern web technologies and a solid foundation in Data Structures & Algorithms (DSA). 
+              I specialize in building responsive, user-friendly web applications and solving real-world problems through efficient code.
             </p>
 
             <h4>💡 Technical Expertise:</h4>
@@ -182,7 +181,7 @@ const Home = () => {
             <a href="#" className="project-link">View Project</a>
         </div>
         <div className="project-card">
-               <img src="Logo(4).png" alt="Notionize" style={{ height: '80px', width: '80px' }} />
+               <img src="Logo.png" alt="Notionize" style={{ height: '80px', width: '80px' }} />
             <h3>Notionize(To-Do Web Application)</h3>
             <p>Notionize is a React to-do app with CRUD operations and LocalStorage, featuring a clean UI and component-based design without any backend.</p>
             <a href="https://notionizetask.vercel.app/" className="project-link">View Project</a>
