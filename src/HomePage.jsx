@@ -176,9 +176,9 @@ const Home = () => {
             <a href="https://portfolia-website.onrender.com" className="project-link">View Project</a>
         </div>
         <div className="project-card">
-            <h3>E-commerce App</h3>
-            <p>A full-stack e-commerce website built with React, Node.js, and MongoDB.</p>
-            <a href="#" className="project-link">View Project</a>
+            <h3>CUEngage</h3>
+            <p>Cuenage is a full-stack event management website built with React, Node.js, and MongoDB.</p>
+            <a href="https://cuengage.vercel.app/" className="project-link">View Project</a>
         </div>
         <div className="project-card">
             <h3>Notionize(To-Do Web Application)</h3>
