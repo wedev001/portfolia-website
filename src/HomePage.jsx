@@ -49,7 +49,7 @@ const Home = () => {
 
     useEffect(() => {
         const typed = new Typed(typedTextRef.current, {
-            strings: ["Welcome to My Portfolio", "I am a Passionate Software Developer"],
+            strings: ["Welcome to My Portfolio", "I am a Passionate Front-End Developer"],
             typeSpeed: 50,
             backSpeed: 30,
             backDelay: 1000,
